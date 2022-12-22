@@ -1,0 +1,2 @@
+This is an application to search and list applications Logger. Created a Logger-Application App using npx create-react-app.
+I used react libraries for dataTable and pagination. I installed react-redux,
